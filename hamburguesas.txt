@@ -13,3 +13,15 @@ Hamburguesa de garbanzos
 Hamburguesa de lentejas
 
 Hamburguesa de arroz con queso /para 4 hamburguesas)
+
+******************************************************
+* Cambio # 1 
+* 
+* aquí agregamos una pequeña modificación ... 
+******************************************************
+
+******************************************************
+* Cambio # 2 
+* aguí agregamos el cambio # 2 ... 
+******************************************************
+
