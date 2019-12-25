@@ -25,3 +25,14 @@ Hamburguesa de arroz con queso /para 4 hamburguesas)
 * aguí agregamos el cambio # 2 ... 
 ******************************************************
 
+
+******************************************************
+* Cambio # 3 
+* Este cambio va al stage ... 
+******************************************************
+
+******************************************************
+* Cambio # 4 
+* Este cambio se mantiene en el Working (hasta que hagamos un commit) ... 
+******************************************************
+
